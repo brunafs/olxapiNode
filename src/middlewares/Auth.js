@@ -7,7 +7,7 @@ module.exports = {
       }
 
       let token = '';
-      if(req,query.token){
+      if(req.query.token){
          token = req.query.token;
       }
       if(req.body.token) {
