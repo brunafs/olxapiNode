@@ -28,5 +28,5 @@ server.get('/ping', (req, res) => {
 });
 
 server.listen(process.env.PORT, () => {
-   console.log(` Rodando no endereço: ${process.env.BASE}`);
+   console.log(`- Rodando no endereço: ${process.env.BASE}`);
 });
