@@ -12,6 +12,7 @@ Bibliotecas instaladas:
 - jimp
 - uuid
 - nodemon
+- express-validator
 
 Testes realizados no site:
 http://resttesttest.com
